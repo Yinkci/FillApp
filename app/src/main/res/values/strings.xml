@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Filipino App</string>
+
+    <string-array name="tabs">
+        <item>How to Play</item>
+        <item>Lessons</item>
+        <item>Scoring</item>
+        <item>Example</item>
+    </string-array>
+
+    <string name="story1">Story #1</string>
+    <string name="story2">Story #2</string>
+    <string name="story3">Story #3</string>
+</resources>
